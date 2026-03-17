@@ -6,9 +6,8 @@ Software Engineer with 8+ years of experience designing and building distributed
 
 I focus on building **scalable, resilient systems with high software quality.**
 
----
 
-# 🧠 About Me
+## 🧠 About Me
 
 - 💻 Senior Backend Engineer
 - 🏗 Designing **distributed systems and event-driven architectures**
@@ -17,22 +16,18 @@ I focus on building **scalable, resilient systems with high software quality.**
 - 📡 Building **streaming platforms with Kafka**
 - ⚙️ Passionate about **system design and software craftsmanship**
 
----
 
-# 🚀 What I Build
+## 🚀 What I Build
 
 I enjoy designing systems such as:
-
-• Event-Driven Microservice Platforms  
-• Kafka Streaming Pipelines  
-• Secure Authentication Platforms  
-• Cloud-Native Backend Systems  
-• Scalable Fintech APIs  
-
----
+- Event-Driven Microservice Platforms
+- Kafka Streaming Pipelines
+- Secure Authentication Platforms
+- Cloud-Native Backend Systems
+- Scalable Fintech APIs
 
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
@@ -49,17 +44,10 @@ I enjoy designing systems such as:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog)
----
 
-# 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-benamor&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=a-benamor)
-
----
-
-# 🤝 Connect with me
-
-LinkedIn  
-https://www.linkedin.com/in/adem-ben-amor/
