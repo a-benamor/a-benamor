@@ -17,16 +17,6 @@ I focus on building **scalable, resilient systems with high software quality.**
 - ⚙️ Passionate about **system design and software craftsmanship**
 
 
-## 🚀 What I Build
-
-I enjoy designing systems such as:
-- Event-Driven Microservice Platforms
-- Kafka Streaming Pipelines
-- Secure Authentication Platforms
-- Cloud-Native Backend Systems
-- Scalable Fintech APIs
-
-
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
